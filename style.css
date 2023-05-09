@@ -1,0 +1,68 @@
+.fonte-especial{
+    font-family: 'pacifico';
+    
+}
+.cor.especial{
+    color: brown !important;
+}
+.imagem-carrosel{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 300px;
+}
+.imagem-carrosel-dois{
+    object-fit: cover;
+    height: 300px;
+}
+.card-largura{
+    max-width: 18rem;
+}
+.card-posicao-imagem  {
+    object-fit: cover;
+    height: 390px;
+}
+.img-carrosel{
+    object-fit: cover;
+    height: 300px;
+}
+.row{
+    background-color: #0b0b0b;
+}
+footer{
+    background-color: #E6DFD9;
+}
+img{
+    height: 300px;
+    width: 300px;
+    align-items: center;
+}
+.sup{
+    text-align: center;
+    padding: 0px 15px 0px 15px;
+}
+.titulo{
+    background-color: lightgray;
+}
+.sup1{
+    text-align: center;
+    padding: 0px 15px 0px 15px;
+    color: rgb(255, 255, 255);
+}
+.final{
+    width: 30px;
+    height: 30px;
+    margin: 0px 40px 40px 0px;
+    
+}
+footer{
+    background-color: black;
+    align-items: center;
+}
+.end{
+    text-align: center;
+}
+.finish{
+    text-align: center;
+    color: white;
+    font-size: 10px;
+}
