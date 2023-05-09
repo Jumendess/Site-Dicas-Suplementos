@@ -66,3 +66,38 @@ footer{
     color: white;
     font-size: 10px;
 }
+.contato{
+    background-color: rgb(224, 241, 241);
+}
+.conta{
+    font-family: 'pacifico';
+    text-align: center;
+    color: white;
+    
+}
+input{
+    width: 100%;
+    padding: 8px 0px;
+    margin: 8px 0px;
+}
+input[type=text]{
+    height: 100px;
+    margin-bottom: 8px;
+}
+.contact{
+    background-color:#0b0b0b;
+}
+label{
+    color: white;
+}
+.botao{
+    background-color:rgb(11, 94, 215);
+    color: white;
+    border: none;
+    width: 100px;
+    
+
+}
+
+
+
