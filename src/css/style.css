@@ -43,7 +43,8 @@ footer{
     align-items: center;
     color:none !important;
     margin: auto;
-    
+    display: flex;
+    justify-content: center;
     
 }
 .sup{
