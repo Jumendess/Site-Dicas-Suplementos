@@ -36,7 +36,7 @@ footer{
     height: 300px;
     width: 300px;
     align-items: center;
-    color:none;
+    color:none !important;
     margin: 0px 0px 0px 45px;
     
 }
@@ -45,7 +45,7 @@ footer{
     padding: 0px 15px 0px 15px;
 }
 .titulo{
-    background-color: rgb(249, 139, 139);
+    background-color: lightgray;
 }
 .sup1{
     text-align: center;
