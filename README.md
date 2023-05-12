@@ -10,7 +10,7 @@ CSS: Utilizado para estilizar e formatar os elementos da página, garantindo uma
 Bootstrap: Utilizado como framework CSS para criar uma interface responsiva e compatível com diferentes dispositivos.
 Blip: Plataforma de chatbot utilizada para implementar a funcionalidade de interação com o usuário, fornecendo respostas automáticas.
 
-Agradeço sinceramente por dedicar seu tempo para verificar o meu projeto pessoal "Dicas de Suplementos Simples". Sua atenção é muito valiosa e estou extremamente grato por isso.
+Agradeço sinceramente por dedicar seu tempo para verificar o meu projeto pessoal "Dicas de Suplementos". Sua atenção é muito valiosa e estou extremamente grato por isso.
 
 Estou aberto e ansioso para receber feedbacks construtivos sobre o projeto, pois acredito que é através dessas sugestões que posso melhorá-lo e torná-lo ainda mais útil e eficiente para os usuários.
 
