@@ -36,7 +36,9 @@ footer{
     height: 300px;
     width: 300px;
     align-items: center;
-    margin: 10px 0px 0px 45px;
+    color:none !important;
+    margin: 0px 0px 0px 45px;
+    
 }
 .sup{
     text-align: center;
