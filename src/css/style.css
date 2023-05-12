@@ -38,13 +38,12 @@ footer{
     background-color: #E6DFD9;
 }
 .img{
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     align-items: center;
     color:none !important;
     margin: auto;
-    display: flex;
-    justify-content: center;
+    
     
 }
 .sup{
