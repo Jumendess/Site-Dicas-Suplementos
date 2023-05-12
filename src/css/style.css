@@ -33,11 +33,11 @@ footer{
     background-color: #E6DFD9;
 }
 .img{
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     align-items: center;
     color:none !important;
-    margin: 0px 0px 0px 45px;
+    
     
 }
 .sup{
