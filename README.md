@@ -1,11 +1,22 @@
 # Site Dicas Suplementos
 
-Neste projeto, foi desenvolvido um website utilizando linguagem de marcação HTML, estilizado com CSS Bootstrap e incorporado um chat da Blip para auxiliar os usuários em caso de dúvidas.
+# Descrição:
+O projeto "Dicas de Suplementos" é uma aplicação web criada para fornecer informações e orientações sobre suplementos alimentares. Seu principal objetivo é orientar os usuários sobre os diferentes tipos de suplementos disponíveis no mercado e fornecer dicas sobre como utilizá-los de forma segura e eficaz.
 
-A linguagem de marcação HTML foi usada para criar a estrutura básica do website, definindo os elementos e sua organização na página. Foram criadas seções como cabeçalho, corpo e rodapé, além de inserir conteúdo relevante utilizando tags HTML apropriadas, como títulos, parágrafos, listas, imagens e links.
+# Tecnologias Utilizadas:
 
-O CSS Bootstrap foi utilizado para estilizar o website de forma responsiva e profissional. O Bootstrap é um framework popular que fornece uma ampla gama de componentes e estilos pré-definidos que facilitam o desenvolvimento de interfaces modernas e adaptáveis para diferentes dispositivos. Foram aplicados estilos aos elementos HTML, como cores, fontes, espaçamento e layout, usando as classes e utilitários fornecidos pelo Bootstrap.
+HTML: Utilizado para estruturar e criar os elementos da página web.
+CSS: Utilizado para estilizar e formatar os elementos da página, garantindo uma aparência agradável.
+Bootstrap: Utilizado como framework CSS para criar uma interface responsiva e compatível com diferentes dispositivos.
+Blip: Plataforma de chatbot utilizada para implementar a funcionalidade de interação com o usuário, fornecendo respostas automáticas.
 
-Além disso, um chat da Blip foi incorporado ao website para fornecer suporte aos usuários em caso de dúvidas. A plataforma Blip oferece uma solução de chatbot avançada que permite criar chatbots personalizados e interativos. O chatbot pode ser programado para responder a perguntas frequentes, fornecer informações úteis e até mesmo encaminhar as perguntas mais complexas para um atendente humano. O chat da Blip é integrado ao website por meio de uma API e pode ser acessado por meio de um widget ou janela de chat flutuante.
+Agradeço sinceramente por dedicar seu tempo para verificar o meu projeto pessoal "Dicas de Suplementos Simples". Sua atenção é muito valiosa e estou extremamente grato por isso.
 
-O objetivo principal do projeto foi desenvolver um website funcional e atraente, que oferecesse uma experiência agradável aos usuários. A linguagem de marcação HTML permitiu criar a estrutura do website, o CSS Bootstrap forneceu estilos modernos e responsivos, e o chat da Blip adicionou uma camada interativa para auxiliar os usuários em caso de dúvidas
+Estou aberto e ansioso para receber feedbacks construtivos sobre o projeto, pois acredito que é através dessas sugestões que posso melhorá-lo e torná-lo ainda mais útil e eficiente para os usuários.
+
+Sua opinião é muito importante para mim e será levada em consideração em futuras atualizações do projeto. Mais uma vez, agradeço por seu interesse e contribuição.
+
+Atenciosamente,
+
+Julio Mendes
+
