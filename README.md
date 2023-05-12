@@ -5,6 +5,7 @@ O projeto "Dicas de Suplementos" é uma aplicação web criada para fornecer inf
 
 # Tecnologias Utilizadas:
 
+
 HTML: Utilizado para estruturar e criar os elementos da página web.
 CSS: Utilizado para estilizar e formatar os elementos da página, garantindo uma aparência agradável.
 Bootstrap: Utilizado como framework CSS para criar uma interface responsiva e compatível com diferentes dispositivos.
