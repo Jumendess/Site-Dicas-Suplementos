@@ -17,10 +17,13 @@
 }
 .card-largura{
     max-width: 18rem;
+    display: flex;
+    justify-content: center;
+    color: black;
 }
 .card-posicao-imagem  {
     object-fit: cover;
-    height: 390px;
+    height: 250pxpx;
 }
 .img-carrosel{
     object-fit: cover;
@@ -28,15 +31,18 @@
 }
 .row{
     background-color: #0b0b0b;
+    display: flex;
+    justify-content: center;
 }
 footer{
     background-color: #E6DFD9;
 }
 .img{
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     align-items: center;
     color:none !important;
+    margin: auto;
     
     
 }
